@@ -34,19 +34,21 @@
 
 **ML/DL & LLM**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI API-412991?style=flat-square&logo=openai&logoColor=white"/>
-   <img src="https://img.shields.io/badge/LangChain-⚡-green?logo=python" alt="langchain"/>
-  <img src="https://img.shields.io/badge/Embedding-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedding-6A0DAD?style=for-the-badge"/>
 </p>
 
 **Database**
 <p>
-  
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 **Vector DB**
 <p>
-  <img src="https://img.shields.io/badge/ChromaDB-7B3F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Chroma-VectorDB-yellow?logo=databricks" alt="chroma"/>
 </p>
 
 <br>
