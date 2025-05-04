@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default" alt="maeng-hun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
