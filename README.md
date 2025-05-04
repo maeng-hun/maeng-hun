@@ -23,11 +23,20 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 </p>
 
-**Tool**
+**Tool / IDE**
 <p>
   <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
+</p>
+
+**AI / LLM 활용 기술**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Embedding-4B0082?style=flat-square"/>
 </p>
 
 **Database**
