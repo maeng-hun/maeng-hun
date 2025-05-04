@@ -48,21 +48,17 @@
 
 **Vector DB**
 <p>
-   <img src="https://img.shields.io/badge/ChromaDB-8E44AD?logo=chroma" alt="chroma"/>
-</p> databricks
+   <img src="https://img.shields.io/badge/ChromaDB-8E44AD?logo=databricks" alt="chroma"/>
+</p> 
 
 <br>
 
 <!-- 🔵 3. 나의 프로젝트 및 경력 -->
 ## 📂 Projects & Experience
 
-**🔹 [J.O.B.I.S. : AI 취업도우미](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S)**
-> OpenAI API와LangChain 모델을 활용한 맞춤형 취업준비 서비스  
+**🔹 [J.O.B.I.S. : OpenAI API와LangChain 모델을 활용한 맞춤형 AI취업준비 서비스](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S)**
 ---
-
-**🔸 [CEnter : AI 코딩 학습 도우미](https://github.com/2024-SMHRD-DCX-BigData-16/CEnter)**
-> OPEN AI API를 활용한 AI 코딩 학습 도우미  
-
+**🔸 [CEnter : OPEN AI API를 활용한 AI 코딩 학습 도우미 ](https://github.com/2024-SMHRD-DCX-BigData-16/CEnter)**  
 <!-- ### 🧠 머신러닝 활용 경험
 > TF-IDF + KMeans 클러스터링 + RandomForest  
 > - 유튜브/지식iN 데이터 군집화 → 페르소나 기반 질문 분류 실험 진행-->
