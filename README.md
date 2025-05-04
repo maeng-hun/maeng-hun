@@ -54,7 +54,7 @@
 <br>
 
 <!-- 🔵 3. 나의 프로젝트 및 경력 -->
-## 📂 Projects & Experience
+## 📘 Projects & Experience
 
 -  [J.O.B.I.S. : OpenAI API와 LangChain 모델을 활용한 맞춤형 AI 취업준비 서비스](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S.)  
 -  [CEnter : OpenAI API를 활용한 AI 코딩 학습 도우미](https://github.com/2024-SMHRD-DCX-BigData-16/CEnter)  
@@ -76,10 +76,13 @@
 <br>
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default" alt="maeng-hun's GitHub stats" />
+</p>
 
-## 🧑‍💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+</p>
 
 ---
 
