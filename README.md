@@ -35,6 +35,7 @@
 **ML/DL & LLM**
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-green?"alt="langchain"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Embedding-6A0DAD?style=flat-square"/>
 </p>
@@ -49,6 +50,7 @@
 **Vector DB**
 <p>
   <img src="https://img.shields.io/badge/ChromaDB-8E44AD?style=flat-square"/>
+   <img src="https://img.shields.io/badge/ChromaDB-yellow?logo=databricks" alt="chroma"/>
 </p>
 
 <br>
