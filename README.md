@@ -35,15 +35,13 @@
 **ML/DL & LLM**
 <p>
   <img src="https://img.shields.io/badge/OpenAI API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
+   <img src="https://img.shields.io/badge/LangChain-⚡-green?logo=python" alt="langchain"/>
   <img src="https://img.shields.io/badge/Embedding-4B0082?style=flat-square"/>
 </p>
 
 **Database**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedding-6A0DAD?style=for-the-badge"/>
+  
 </p>
 
 **Vector DB**
