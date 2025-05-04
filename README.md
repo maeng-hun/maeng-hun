@@ -1,5 +1,5 @@
 <!-- 🟢 1. 깃허브 상단 헤더 이미지 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=박명훈%20GitHub&fontSize=40&fontAlign=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Myung_hoon%20GitHub&fontSize=40&fontAlign=70&fontColor=ffffff)
 
 <br>
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
 </p>
 
-**AI / LLM 활용 기술**
+**ML/DL & LLM**
 <p>
   <img src="https://img.shields.io/badge/OpenAI API-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
@@ -41,9 +41,9 @@
 
 **Database**
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedding-6A0DAD?style=for-the-badge"/>
 </p>
 
 **Vector DB**
@@ -56,23 +56,22 @@
 <!-- 🔵 3. 나의 프로젝트 및 경력 -->
 ## 📂 Projects & Experience
 
-### 🔹 [J.O.B.I.S. - AI 기반 취업도우미](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S)
-> GPT + LangChain + FastAPI 기반의 실전형 자기소개서 분석 및 면접 질문 생성 서비스  
+**🔹 [J.O.B.I.S. - AI 취업도우미](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S)**
+> OpenAI API와LangChain 모델을 활용한 맞춤형 취업준비 서비스  
 > - 자소서 Embedding → 유사 문장 검색 → GPT 기반 질문 생성 (RAG 구조)  
 > - UploadFile + FormData + PostgreSQL 연동까지 전 과정 직접 구현
 
 ---
 
 ### 🔸 [CEnter - GPT 문제 생성 웹 플랫폼](https://github.com/2024-SMHRD-DCX-BigData-16/CEnter)
-> Spring MVC + JavaScript 기반 GPT 연동 문제 생성 서비스  
+> OPEN AI API를 활용한 AI 코딩 학습 도우미  
 > - 언어/주제 선택 → GPT 문제 생성 → 복습 기능 + 커뮤니티 게시판  
 > - 파일 없이 API 기반 GPT 연동 전처리 직접 구현
 
----
 
-### 🧠 머신러닝 활용 경험
+<!-- ### 🧠 머신러닝 활용 경험
 > TF-IDF + KMeans 클러스터링 + RandomForest  
-> - 유튜브/지식iN 데이터 군집화 → 페르소나 기반 질문 분류 실험 진행
+> - 유튜브/지식iN 데이터 군집화 → 페르소나 기반 질문 분류 실험 진행-->
 
 ---
 
