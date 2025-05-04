@@ -35,7 +35,6 @@
 **ML/DL & LLM**
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-green?"alt="langchain"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Embedding-6A0DAD?style=flat-square"/>
 </p>
@@ -49,20 +48,19 @@
 
 **Vector DB**
 <p>
-  <img src="https://img.shields.io/badge/ChromaDB-8E44AD?style=flat-square"/>
-   <img src="https://img.shields.io/badge/ChromaDB-yellow?logo=databricks" alt="chroma"/>
-</p>
+   <img src="https://img.shields.io/badge/ChromaDB-8E44AD?logo=chroma" alt="chroma"/>
+</p> databricks
 
 <br>
 
 <!-- 🔵 3. 나의 프로젝트 및 경력 -->
 ## 📂 Projects & Experience
 
-**🔹 [J.O.B.I.S. - AI 취업도우미](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S)**
+**🔹 [J.O.B.I.S. : AI 취업도우미](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S)**
 > OpenAI API와LangChain 모델을 활용한 맞춤형 취업준비 서비스  
 ---
 
-**🔸 [CEnter - GPT 문제 생성 웹 플랫폼](https://github.com/2024-SMHRD-DCX-BigData-16/CEnter)**
+**🔸 [CEnter : AI 코딩 학습 도우미](https://github.com/2024-SMHRD-DCX-BigData-16/CEnter)**
 > OPEN AI API를 활용한 AI 코딩 학습 도우미  
 
 <!-- ### 🧠 머신러닝 활용 경험
