@@ -91,12 +91,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maeng-hun&theme=tokyo-night&radius=8&v=10" alt="Activity Graph" />
 </p>
 
-<!-- 공개 레포 기준 통계 (README만 수정) -->
-<img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight" />
-
----
 
 <br>
 
