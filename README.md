@@ -77,11 +77,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&count_private=true&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight&langs_count=6&v=1" alt="Top Langs" />
 </p>
 
 ---
