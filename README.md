@@ -77,12 +77,24 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&count_private=true&v=1" />
+  <!-- 메인 통계 (캐시 파라미터로 강제 갱신) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&count_private=true&v=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight&langs_count=6&v=1" alt="Top Langs" />
+  <!-- Top Langs: 공개 레포만, 언어 최대 8개 표시 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight&langs_count=8&v=10" alt="Top Langs" />
 </p>
+
+<p align="center">
+  <!-- 활동 그래프(커밋 히트맵) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maeng-hun&theme=tokyo-night&radius=8&v=10" alt="Activity Graph" />
+</p>
+
+<!-- 공개 레포 기준 통계 (README만 수정) -->
+<img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight" />
 
 ---
 
