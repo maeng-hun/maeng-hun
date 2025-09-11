@@ -1,9 +1,8 @@
-<!-- 🟢 1. 깃허브 상단 헤더 이미지 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Myung_hoon%20GitHub&fontSize=40&fontAlign=70&fontColor=ffffff)
 
 <br>
 
-<!-- 🟡 2. 사용 가능한 언어 / 기술 스택 뱃지 -->
+<!-- 
 ## 🧑‍💻 Tech Stack
 
 **Languages**
@@ -53,22 +52,21 @@
 
 <br>
 
-<!-- 🔵 3. 나의 프로젝트 및 경력 -->
 ## 📘 Projects & Experience
 
 -  [J.O.B.I.S. : OpenAI API와 LangChain 모델을 활용한 맞춤형 AI 취업준비 서비스](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S.)  
 -  [CEnter : OpenAI API를 활용한 AI 코딩 학습 도우미](https://github.com/2024-SMHRD-DCX-BigData-16/CEnter)  
 
-<!-- ### 🧠 머신러닝 활용 경험
+ ### 🧠 머신러닝 활용 경험
 > TF-IDF + KMeans 클러스터링 + RandomForest  
-> - 유튜브/지식iN 데이터 군집화 → 페르소나 기반 질문 분류 실험 진행-->
+> - 유튜브/지식iN 데이터 군집화 → 페르소나 기반 질문 분류 실험 진행
 
 <br>
 
-<!-- ## ✨ About Me
+ ## ✨ About Me
 
 > 💬 "기술보다 중요한 건 문제를 해결하려는 태도입니다."  
-> 끊임없이 배우고, 꾸준히 성장하며, 사용자를 위한 실용적인 서비스를 만들어가는 백엔드 개발자 박명훈입니다. -->
+> 끊임없이 배우고, 꾸준히 성장하며, 사용자를 위한 실용적인 서비스를 만들어가는 백엔드 개발자 박명훈입니다. 
 
 
 ---
@@ -77,19 +75,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- 메인 통계 (캐시 파라미터로 강제 갱신) -->
   <img src="https://github-readme-stats.vercel.app/api?username=maeng-hun&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&count_private=true&v=10" />
 </p>
 
 <p align="center">
-  <!-- Top Langs: 공개 레포만, 언어 최대 8개 표시 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-hun&layout=compact&theme=tokyonight&langs_count=8&v=10" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <!-- 활동 그래프(커밋 히트맵) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maeng-hun&theme=tokyo-night&radius=8&v=10" alt="Activity Graph" />
 </p>
+
+-->
 
 
 <br>
